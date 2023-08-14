@@ -1,4 +1,4 @@
-## Gi folks!
+## Hi folks!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pedro-arraes-a4667224/">
