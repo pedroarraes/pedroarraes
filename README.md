@@ -14,4 +14,4 @@
     />
   </a>
   
-![Metrics](https://metrics.lecoq.io/insights?user=pedroarraes)
+![Metrics](https://metrics.lecoq.io/insights/pedroarraes)
