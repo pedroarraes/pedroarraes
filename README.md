@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Arquiteto+de+Middleware;Apaixonado+por+tecnologia;Apaixonado+por+AI+e+OpenSource!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
 </div>
 
