@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EE0000&height=220&section=header&text=Pedro%20Arraes&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Red%20Hat%20Consultant%20%7C%20Platform%20Engineer%20%7C%20OpenShift%20Specialist&descAlignY=58"/>
@@ -212,4 +211,3 @@ I enjoy solving complex infrastructure challenges and transforming manual proces
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EE0000&height=120&section=footer"/>
 
-````
