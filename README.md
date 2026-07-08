@@ -12,21 +12,13 @@ I enjoy solving complex infrastructure challenges and transforming manual proces
 
 ---
 
-# ☁️ Core Technologies
-
-<div align="center">
-
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,kubernetes,docker,git,github,gitlab,java,python,bash,ansible,aws,postgres,mysql"/>
-
-</p>
-
----
+<img src="https://skillicons.dev/icons?i=linux,kubernetes,docker,openshift,vim,vscode,npm,java,c,cpp,python,bash,ansible,postgres"/>
 
 </p>
 
@@ -45,9 +37,8 @@ I enjoy solving complex infrastructure challenges and transforming manual proces
 - 📦 Quay Registry
 - 🤖 Ansible Automation Platform
 - ☁️ Cloud Native Architecture
-- 🐧 Linux Administration
 - 🛡 DevSecOps
-- 📈 Platform Engineering
+- 📈 Middleware Engineering
 
 ---
 
