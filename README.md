@@ -18,7 +18,7 @@ I enjoy solving complex infrastructure challenges and transforming manual proces
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,kubernetes,docker,openshift,vim,vscode,npm,java,c,cpp,python,bash,ansible,postgres"/>
+<img src="https://skillicons.dev/icons?i=redhat,linux,kubernetes,docker,openshift,vim,vscode,npm,java,c,cpp,python,bash,ansible,postgres"/>
 
 </p>
 
